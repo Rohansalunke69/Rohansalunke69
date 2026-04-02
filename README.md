@@ -1,4 +1,4 @@
-<h2 align="left"># Rohan Salunke<br><br>Building Intelligent Systems<br><br>AI • Machine Learning • Data Science<br><br>---<br>Passionate about building intelligent System and solving real-world problems using AI and data.<br><br>Currently exploring:<br>- Artificial Intelligence<br>- Machine Learning<br>- Data Science<br>- Open Source<br><br>---<br>Less Guesswork. More Data-Driven Thinking.<br>Let's Connect</h2>
+<h2 align="left"># Rohan <br><br>Building Intelligent Systems<br><br>AI • Machine Learning • Data Science<br><br>---<br>Passionate about building intelligent System and solving real-world problems using AI and data.<br><br>Currently exploring:<br>- Artificial Intelligence<br>- Machine Learning<br>- Data Science<br>- Open Source<br><br>---<br>Less Guesswork. More Data-Driven Thinking.<br>Let's Connect on</h2>
 
 ###
 
@@ -35,11 +35,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Rohansalunke69/Rohansalunke69/output/snake.svg" alt="Snake animation" />
 
 ###
